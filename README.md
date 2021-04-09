@@ -1,4 +1,5 @@
 # Spammers
+  Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 # Spam available
   
 - asakita
@@ -29,3 +30,14 @@
 - temanprima
 - maripinjam
 - sobatbangun
+# Requirements
+  requests
+# Installation
+  $ apt update && apt upgrade
+$ pkg update;pkg install python2
+$ git clone https://github.com/AbilSeno/MDSpammers
+$ cd MDSpammers
+$ pip2 install requests
+$ python2 main.py
+
+  
